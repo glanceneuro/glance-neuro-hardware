@@ -1,11 +1,15 @@
-<table><tr>
-<td valign="middle"><img src="resources/logo.png" height="44" alt="GLANCE logo"></td>
-<td valign="middle">
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="resources/logo-darkmode.png">
+  <img src="resources/logo.png" alt="GLANCE — Gigabit Low-latency Acquisition for Neuroscience & Closed-loop Experiments" width="680">
+</picture>
 
 # GLANCE carrier board
 
-</td>
-</tr></table>
+by the [Kemere Lab](https://kemerelab.com) at [Rice University](https://neuroengineering.rice.edu)
+
+</div>
 
 KiCad design and production files for the **GLANCE** carrier PCB — a custom **4-layer**
 carrier for a **MicroZed** (Xilinx Zynq-7020) SOM that interfaces **Intan RHD2000-style**
