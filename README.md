@@ -1,4 +1,11 @@
+<table><tr>
+<td valign="middle"><img src="resources/logo.png" height="44" alt="GLANCE logo"></td>
+<td valign="middle">
+
 # GLANCE carrier board
+
+</td>
+</tr></table>
 
 KiCad design and production files for the **GLANCE** carrier PCB — a custom **4-layer**
 carrier for a **MicroZed** (Xilinx Zynq-7020) SOM that interfaces **Intan RHD2000-style**
