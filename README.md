@@ -9,6 +9,8 @@
 
 by the [Kemere Lab](https://kemerelab.com) at [Rice University](https://neuroengineering.rice.edu)
 
+**[glanceneuro.org](https://glanceneuro.org)**
+
 </div>
 
 KiCad design and production files for the **GLANCE** carrier PCB — a custom **4-layer**
